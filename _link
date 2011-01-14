@@ -1,2 +1,2 @@
-ln -sf ./startdwm ~/bin/startdwm
+ln -sf `pwd`/startdwm ~/bin/startdwm
 
